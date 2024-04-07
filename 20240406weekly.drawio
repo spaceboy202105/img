@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T02:08:55.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="jgnGNshPR8-yWlzGKaB0" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T02:14:05.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="ECrqXYVDGQm0_dy0wYIW" version="24.2.2" type="github">
   <diagram name="第 1 页" id="Si89tMqwFTTI9H2EBgi0">
     <mxGraphModel dx="1871" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,11 +108,23 @@
         <mxCell id="Fbwe6og6Q2v3WvaakLh8-30" value="isFullScreen？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="600" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Fbwe6og6Q2v3WvaakLh8-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fbwe6og6Q2v3WvaakLh8-31" target="Fbwe6og6Q2v3WvaakLh8-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Fbwe6og6Q2v3WvaakLh8-31" value="m_viewportSize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="820" width="180" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="Fbwe6og6Q2v3WvaakLh8-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fbwe6og6Q2v3WvaakLh8-32" target="Fbwe6og6Q2v3WvaakLh8-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Fbwe6og6Q2v3WvaakLh8-32" value="m_sizePixels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="1069" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fbwe6og6Q2v3WvaakLh8-39" value="Frame Buffer Size" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1069" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fbwe6og6Q2v3WvaakLh8-43" value="m_viewportSize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="820" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
