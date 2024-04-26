@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T15:02:09.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="zKDd1Q8cPfzYdcQkITqj" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T15:04:59.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Nz6zHXWNuB6fW8bnVKVC" version="24.2.7" type="github">
   <diagram name="第 1 页" id="Jw7tVS_LVLmDtr75cejy">
-    <mxGraphModel dx="2608" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2089" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -738,7 +738,7 @@
             <mxPoint x="-263.5" y="1530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2A6kaPeJ6SIiudciI6jl-21" value="+s_overIndex&lt;br&gt;[currBin]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2A6kaPeJ6SIiudciI6jl-20">
+        <mxCell id="2A6kaPeJ6SIiudciI6jl-21" value="+s_overIndex&lt;br&gt;[currBin]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" vertex="1" connectable="0" parent="2A6kaPeJ6SIiudciI6jl-20">
           <mxGeometry x="-0.2901" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -755,7 +755,7 @@
         <mxCell id="2A6kaPeJ6SIiudciI6jl-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;seg is full？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-458.75" y="1380" width="72.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2A6kaPeJ6SIiudciI6jl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2A6kaPeJ6SIiudciI6jl-26" target="2A6kaPeJ6SIiudciI6jl-17">
+        <mxCell id="2A6kaPeJ6SIiudciI6jl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="2A6kaPeJ6SIiudciI6jl-26" target="2A6kaPeJ6SIiudciI6jl-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-437.5" y="1400" as="sourcePoint" />
           </mxGeometry>
@@ -770,7 +770,7 @@
             <mxPoint x="-387.5" y="1400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2A6kaPeJ6SIiudciI6jl-30" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2A6kaPeJ6SIiudciI6jl-29">
+        <mxCell id="2A6kaPeJ6SIiudciI6jl-30" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" vertex="1" connectable="0" parent="2A6kaPeJ6SIiudciI6jl-29">
           <mxGeometry x="-0.2522" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -778,7 +778,7 @@
         <mxCell id="2A6kaPeJ6SIiudciI6jl-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;阶段(c)：&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-747" y="1390" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2A6kaPeJ6SIiudciI6jl-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;阶段(d)：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;triBuf[pos]=&lt;span style=&quot;background-color: initial;&quot;&gt;binSegdata[idx]&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="2A6kaPeJ6SIiudciI6jl-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;阶段(d)：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;triBuf[pos]=binSegdata[idx]&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-722" y="1630" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
