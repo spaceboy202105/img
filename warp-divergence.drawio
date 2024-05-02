@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T01:04:58.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="d4W2W9qxD6fuecKls33E" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T01:09:30.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="BbQFvpD2gmxKO7x9cszH" version="24.3.1" type="github">
   <diagram name="第 1 页" id="qoLdiFCqsZCSUA59nAG3">
     <mxGraphModel dx="1044" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,8 +169,8 @@
             <mxPoint x="330" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PFtwk1hPvhhd0XtJ_q7h-36" value="sync" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="620" width="60" height="30" as="geometry" />
+        <mxCell id="PFtwk1hPvhhd0XtJ_q7h-36" value="block_sync" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-37" value="" style="shape=link;html=1;rounded=0;width=10.571428571428573;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -204,8 +204,8 @@
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-46" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="400" as="sourcePoint" />
-            <mxPoint x="630" y="440" as="targetPoint" />
+            <mxPoint x="530" y="535" as="sourcePoint" />
+            <mxPoint x="530" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-47" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" edge="1" parent="1">
@@ -226,7 +226,7 @@
             <mxPoint x="413" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PFtwk1hPvhhd0XtJ_q7h-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="PFtwk1hPvhhd0XtJ_q7h-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="265" as="sourcePoint" />
             <mxPoint x="120" y="585" as="targetPoint" />
@@ -237,42 +237,42 @@
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-52" value="" style="shape=link;html=1;rounded=0;width=10.571428571428573;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="600" y="310" as="sourcePoint" />
-            <mxPoint x="670" y="310.28999999999996" as="targetPoint" />
+            <mxPoint x="500" y="445" as="sourcePoint" />
+            <mxPoint x="570" y="445.28999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-53" value="线程同步栅栏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="290" width="140" height="30" as="geometry" />
+          <mxGeometry x="580" y="425" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-54" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="350" as="sourcePoint" />
-            <mxPoint x="610" y="390" as="targetPoint" />
+            <mxPoint x="510" y="485" as="sourcePoint" />
+            <mxPoint x="510" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-55" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="350" as="sourcePoint" />
-            <mxPoint x="630" y="390" as="targetPoint" />
+            <mxPoint x="530" y="485" as="sourcePoint" />
+            <mxPoint x="530" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-56" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="350" as="sourcePoint" />
-            <mxPoint x="650" y="390" as="targetPoint" />
+            <mxPoint x="550" y="485" as="sourcePoint" />
+            <mxPoint x="550" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-57" value="线程执行上下文" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="360" width="140" height="30" as="geometry" />
+          <mxGeometry x="580" y="495" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-58" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="400" as="sourcePoint" />
-            <mxPoint x="610" y="440" as="targetPoint" />
+            <mxPoint x="510" y="535" as="sourcePoint" />
+            <mxPoint x="510" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-59" value="当前栅栏待同步线程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="410" width="140" height="30" as="geometry" />
+          <mxGeometry x="580" y="545" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PFtwk1hPvhhd0XtJ_q7h-60" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
