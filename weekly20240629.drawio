@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T03:05:44.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="nqZWKgQi2ZG56nyRExzh" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T10:45:14.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="rOJA6fBivKsx6Io0X6Qj" version="24.4.9" type="github">
   <diagram name="第 1 页" id="yG4VEhukbX8E-P6RL4Ew">
-    <mxGraphModel dx="810" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,11 +70,17 @@
         <mxCell id="_9yM1N_c14yzDBK7w2tD-23" value="K-buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="604" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_9yM1N_c14yzDBK7w2tD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9yM1N_c14yzDBK7w2tD-25" target="_9yM1N_c14yzDBK7w2tD-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_9yM1N_c14yzDBK7w2tD-25" value="排序缓存占用共享内存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="670" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_9yM1N_c14yzDBK7w2tD-27" value="数据耦合影响性能扩展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="754" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_9yM1N_c14yzDBK7w2tD-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_9yM1N_c14yzDBK7w2tD-28" target="_9yM1N_c14yzDBK7w2tD-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_9yM1N_c14yzDBK7w2tD-28" value="其他的问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="840" width="100" height="50" as="geometry" />
@@ -84,6 +90,23 @@
         </mxCell>
         <mxCell id="_9yM1N_c14yzDBK7w2tD-34" value="简化task分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="950" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_9yM1N_c14yzDBK7w2tD-35" value="间接影响4K渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="670" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_9yM1N_c14yzDBK7w2tD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_9yM1N_c14yzDBK7w2tD-38" target="_9yM1N_c14yzDBK7w2tD-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="910" as="sourcePoint" />
+            <mxPoint x="290" y="995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9yM1N_c14yzDBK7w2tD-41" value="影响效率" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_9yM1N_c14yzDBK7w2tD-40">
+          <mxGeometry x="-0.1395" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9yM1N_c14yzDBK7w2tD-38" value="L1缓存命中率过低" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="840" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
