@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.5">
   <diagram name="第 1 页" id="3Ep31RJp3vlBfozrUrYt">
-    <mxGraphModel dx="846" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -501,6 +501,30 @@
         </mxCell>
         <mxCell id="DKTI8owrDRF7W_VHkosv-148" value="true" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="1100" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DKTI8owrDRF7W_VHkosv-153" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="67.15000000000003" y="1030" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DKTI8owrDRF7W_VHkosv-154" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="67.15000000000003" y="990" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DKTI8owrDRF7W_VHkosv-155" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67.15" y="1070" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DKTI8owrDRF7W_VHkosv-156" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="67.15000000000006" y="1110" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DKTI8owrDRF7W_VHkosv-157" value="深度信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="985" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DKTI8owrDRF7W_VHkosv-158" value="NurbsID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1025" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DKTI8owrDRF7W_VHkosv-159" value="正常像素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1065" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DKTI8owrDRF7W_VHkosv-160" value="crack像素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1105" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
