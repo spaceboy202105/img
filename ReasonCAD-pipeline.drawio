@@ -134,13 +134,16 @@
           <mxGeometry x="310" y="955" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Oko7wqly2_N-PcPin_Jt-52" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;RL Update&lt;br&gt;(GPRO)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="925" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Oko7wqly2_N-PcPin_Jt-58" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="116" y="1080" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Oko7wqly2_N-PcPin_Jt-59" value="Answer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="1120" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oko7wqly2_N-PcPin_Jt-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Oko7wqly2_N-PcPin_Jt-60" target="Oko7wqly2_N-PcPin_Jt-82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Oko7wqly2_N-PcPin_Jt-60" value="1.直接复制Reasoning过程&lt;br&gt;2.转化为最终指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="1070" width="160" height="130" as="geometry" />
@@ -177,8 +180,14 @@
         <mxCell id="Oko7wqly2_N-PcPin_Jt-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="236" y="955" width="134" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Oko7wqly2_N-PcPin_Jt-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oko7wqly2_N-PcPin_Jt-66" target="Oko7wqly2_N-PcPin_Jt-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Oko7wqly2_N-PcPin_Jt-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;lt;Think&amp;gt; Format Reward&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="755" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oko7wqly2_N-PcPin_Jt-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oko7wqly2_N-PcPin_Jt-68" target="Oko7wqly2_N-PcPin_Jt-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Oko7wqly2_N-PcPin_Jt-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;lt;Answer&amp;gt; Format Reward&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="1005" width="170" height="30" as="geometry" />
@@ -207,8 +216,38 @@
         <mxCell id="Oko7wqly2_N-PcPin_Jt-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="640" y="810" width="20" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="Oko7wqly2_N-PcPin_Jt-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oko7wqly2_N-PcPin_Jt-81" target="Oko7wqly2_N-PcPin_Jt-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="895" />
+              <mxPoint x="810" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Oko7wqly2_N-PcPin_Jt-81" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Operation Valid&lt;br&gt;Reward&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="635" y="880" width="170" height="30" as="geometry" />
+          <mxGeometry x="654" y="880" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oko7wqly2_N-PcPin_Jt-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Oko7wqly2_N-PcPin_Jt-82" target="Oko7wqly2_N-PcPin_Jt-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oko7wqly2_N-PcPin_Jt-82" value="&lt;div&gt;Evaluation&lt;/div&gt;&lt;div&gt;Footprint&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1075" width="74" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Oko7wqly2_N-PcPin_Jt-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Oko7wqly2_N-PcPin_Jt-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="1135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oko7wqly2_N-PcPin_Jt-86" value="&lt;div&gt;Chamfer Distance&lt;br&gt;JSD&lt;/div&gt;&lt;div&gt;COV&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="1100" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Oko7wqly2_N-PcPin_Jt-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oko7wqly2_N-PcPin_Jt-89" target="Oko7wqly2_N-PcPin_Jt-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oko7wqly2_N-PcPin_Jt-89" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Recostruction quality&lt;br&gt;Reward&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1120" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
