@@ -319,6 +319,27 @@
         <mxCell id="P4tzLQnRH48jyw-nG_dN-10" value="使用神经网络预测&lt;br&gt;几何参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-760" y="1915" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P4tzLQnRH48jyw-nG_dN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P4tzLQnRH48jyw-nG_dN-11" target="P4tzLQnRH48jyw-nG_dN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4tzLQnRH48jyw-nG_dN-11" value="State 0&lt;br&gt;Solid 0&lt;div&gt;Point Cloud 0&lt;br&gt;Voxel 0&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="2060" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P4tzLQnRH48jyw-nG_dN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P4tzLQnRH48jyw-nG_dN-12" target="P4tzLQnRH48jyw-nG_dN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4tzLQnRH48jyw-nG_dN-12" value="State 1&lt;br&gt;Solid 1&lt;div&gt;Point Cloud 1&lt;br&gt;Voxel 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="2060" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P4tzLQnRH48jyw-nG_dN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P4tzLQnRH48jyw-nG_dN-14" target="P4tzLQnRH48jyw-nG_dN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4tzLQnRH48jyw-nG_dN-14" value="State 2&lt;br&gt;Solid 2&lt;div&gt;Point Cloud 2&lt;br&gt;Voxel 2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="2060" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P4tzLQnRH48jyw-nG_dN-16" value="State 0&lt;br&gt;Solid 0&lt;div&gt;Point Cloud 0&lt;br&gt;Voxel 0&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="2060" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
