@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.1.3">
   <diagram name="第 1 页" id="49VFRHUnO_W54gyLXkiO">
-    <mxGraphModel dx="4451" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5154" dy="2231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -799,7 +799,7 @@
         <mxCell id="QlB4GiyAVAoM3IIBNztC-22" value="DeepCAD-DV PC token" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="QlB4GiyAVAoM3IIBNztC-24">
           <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QlB4GiyAVAoM3IIBNztC-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Large Language Model&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="QlB4GiyAVAoM3IIBNztC-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Large Language Model（Segmentation Network）&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2040.6599999999999" y="660" width="930" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QlB4GiyAVAoM3IIBNztC-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -889,6 +889,9 @@
         <mxCell id="QlB4GiyAVAoM3IIBNztC-60" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;PC encoder&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1900" y="885" width="250" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QlB4GiyAVAoM3IIBNztC-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlB4GiyAVAoM3IIBNztC-61" target="QlB4GiyAVAoM3IIBNztC-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QlB4GiyAVAoM3IIBNztC-61" value="USER INSTRUCT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2034" y="910" width="109" height="30" as="geometry" />
         </mxCell>
@@ -918,6 +921,12 @@
         </mxCell>
         <mxCell id="QlB4GiyAVAoM3IIBNztC-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-1171" y="740" width="61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlB4GiyAVAoM3IIBNztC-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlB4GiyAVAoM3IIBNztC-71" target="QlB4GiyAVAoM3IIBNztC-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlB4GiyAVAoM3IIBNztC-71" value="DeepCAD PC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1835" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
