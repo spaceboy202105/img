@@ -1056,14 +1056,17 @@
         <mxCell id="picxXpbNOsrBLeH9c2oJ-2" value="DeepCAD sequence token" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-2710" y="0.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="picxXpbNOsrBLeH9c2oJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="picxXpbNOsrBLeH9c2oJ-5" target="picxXpbNOsrBLeH9c2oJ-7">
+        <mxCell id="picxXpbNOsrBLeH9c2oJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="picxXpbNOsrBLeH9c2oJ-5" target="picxXpbNOsrBLeH9c2oJ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="picxXpbNOsrBLeH9c2oJ-5" value="Fusion2Free" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-2480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="picxXpbNOsrBLeH9c2oJ-7" value="FreeCAD code" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-2280" width="120" height="60" as="geometry" />
+        <mxCell id="picxXpbNOsrBLeH9c2oJ-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freecad.org/svg/logo-freecad.svg;clipPath=inset(0% 69.29% 0% 0%);" vertex="1" parent="1">
+          <mxGeometry x="-2252.25" y="0.2500000000002274" width="64.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="picxXpbNOsrBLeH9c2oJ-12" value="FreeCAD env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2265" y="60.25" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
