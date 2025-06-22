@@ -1202,24 +1202,6 @@
         <mxCell id="picxXpbNOsrBLeH9c2oJ-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CAD sequence&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-2440" y="2745.5" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="picxXpbNOsrBLeH9c2oJ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="picxXpbNOsrBLeH9c2oJ-71" target="picxXpbNOsrBLeH9c2oJ-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="picxXpbNOsrBLeH9c2oJ-71" value="State PC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-2350" y="2168" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="picxXpbNOsrBLeH9c2oJ-72" value="Target PC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1980" y="2168" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="picxXpbNOsrBLeH9c2oJ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="picxXpbNOsrBLeH9c2oJ-74" target="picxXpbNOsrBLeH9c2oJ-72">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="picxXpbNOsrBLeH9c2oJ-74" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freecad.org/svg/logo-freecad.svg;clipPath=inset(0% 69.29% 0% 0%);" vertex="1" parent="1">
-          <mxGeometry x="-2137.25" y="2016.2500000000002" width="64.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="picxXpbNOsrBLeH9c2oJ-75" value="FreeCAD env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2150" y="2076.25" width="90" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
