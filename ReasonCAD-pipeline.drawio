@@ -1274,10 +1274,10 @@
         <mxCell id="enI1yUrt5H7mVvmyhLx0-4" value="建模过程合规性（PRM）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-2877.2999999999997" y="825" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="enI1yUrt5H7mVvmyhLx0-6" value="几何接近性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="enI1yUrt5H7mVvmyhLx0-6" value="几何接近性&lt;br&gt;（ORM）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-2874.68" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="enI1yUrt5H7mVvmyhLx0-8" value="长度惩罚" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="enI1yUrt5H7mVvmyhLx0-8" value="长度惩罚&lt;br&gt;（ORM）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-2874.68" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
