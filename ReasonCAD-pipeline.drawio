@@ -1630,11 +1630,6 @@
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AQL3YPbUCmmaypsEq65r-49" edge="1" parent="1" source="AQL3YPbUCmmaypsEq65r-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3828.3399999999997" y="-564.1399999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AQL3YPbUCmmaypsEq65r-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" value="&lt;div&gt;DTBrepGen topo token&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="133.18" x="-3748.6600000000003" y="-897.41" as="geometry" />
         </mxCell>
