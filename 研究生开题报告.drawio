@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="N_0eI3PiTOLCqblU4qxX">
-    <mxGraphModel dx="2434" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3292" dy="2068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,26 +244,8 @@
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;视觉合法性评判&lt;br&gt;Visual Validity Critic&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="126" x="120" y="1480" as="geometry" />
         </mxCell>
-        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Topology&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sampling Method&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="126" x="454" y="1318.75" as="geometry" />
-        </mxCell>
-        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Training-Free Guidace&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Wire Generation&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="126" x="454" y="1417.25" as="geometry" />
-        </mxCell>
-        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-75" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-76" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-77" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;VVC/统计分布&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;Router&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="63" width="102.39" x="296.81" y="1420" as="geometry" />
-        </mxCell>
-        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Rollout&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="126" x="454" y="1514.25" as="geometry" />
         </mxCell>
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-79" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -285,8 +267,8 @@
         </mxCell>
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-82" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="442.07000000000005" y="1640" as="sourcePoint" />
-            <mxPoint x="441.74" y="1280" as="targetPoint" />
+            <mxPoint x="420.33000000000004" y="1640" as="sourcePoint" />
+            <mxPoint x="420" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Issues&lt;/b&gt;&lt;/font&gt;" vertex="1">
@@ -458,6 +440,64 @@
         </mxCell>
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-156" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="DC pass" vertex="1">
           <mxGeometry x="-827" y="1874.42" as="geometry">
+            <mxPoint x="-3" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-164" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Topology&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Re-sampling&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="126" x="754" y="1592.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-165" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1530" />
+              <mxPoint x="680" y="1458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-166" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1530" />
+              <mxPoint x="680" y="1628" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-167" connectable="0" parent="4Mywm9WoGG_D_-kyn5Z8-166" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="DC fail" vertex="1">
+          <mxGeometry relative="1" x="0.6621" as="geometry">
+            <mxPoint x="-5" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-168" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;统计分布检测&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="126" x="534" y="1495" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-169" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-173">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1449.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-170" connectable="0" parent="4Mywm9WoGG_D_-kyn5Z8-169" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="VVC pass" vertex="1">
+          <mxGeometry relative="1" x="0.6003" y="-2" as="geometry">
+            <mxPoint x="10" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-171" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-168">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1449.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-172" connectable="0" parent="4Mywm9WoGG_D_-kyn5Z8-171" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="VVC fail" vertex="1">
+          <mxGeometry relative="1" x="0.551" y="4" as="geometry">
+            <mxPoint x="14" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-173" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Pass&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="126" x="534" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-174" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;VVC energy w/&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;TFG&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="126" x="754" y="1422.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-175" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="DC pass" vertex="1">
+          <mxGeometry x="716" y="1446.92" as="geometry">
             <mxPoint x="-3" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
