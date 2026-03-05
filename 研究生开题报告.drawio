@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="N_0eI3PiTOLCqblU4qxX">
-    <mxGraphModel dx="1607" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2434" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,7 +259,7 @@
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-77" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;VVC/几何约束&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;Router&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;VVC/统计分布&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;Router&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="63" width="102.39" x="296.81" y="1420" as="geometry" />
         </mxCell>
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Rollout&lt;/font&gt;" vertex="1">
@@ -377,6 +377,89 @@
         </mxCell>
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;TFG Iteration&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="104" x="-74" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-117" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=18;fontStyle=1;" value="Decision Matrix: Distribution Constraint × VVC" vertex="1">
+          <mxGeometry height="30" width="720" x="-20" y="2230" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="440" width="720" x="-20" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1;fillColor=#f5f5f5;strokeColor=#000000;" value="Condition" vertex="1">
+          <mxGeometry height="60" width="160" x="-20" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1;fillColor=#f5f5f5;strokeColor=#000000;" value="VVC Pass" vertex="1">
+          <mxGeometry height="60" width="280" x="140" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1;fillColor=#f5f5f5;strokeColor=#000000;" value="VVC Fail" vertex="1">
+          <mxGeometry height="60" width="280" x="420" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1;fillColor=#f5f5f5;strokeColor=#000000;" value="Dist. Constraint Pass" vertex="1">
+          <mxGeometry height="190" width="160" x="-20" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-123" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1;fillColor=#f5f5f5;strokeColor=#000000;" value="Dist. Constraint Fail" vertex="1">
+          <mxGeometry height="190" width="160" x="-20" y="2550" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;fillColor=#d5e8d4;strokeColor=#82b366;" value="ACCEPT / COMMIT&#xa;✓ In-distribution&#xa;✓ Visual-valid&#xa;→ Post-process / CAD kernel build" vertex="1">
+          <mxGeometry height="190" width="280" x="140" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;fillColor=#fff2cc;strokeColor=#d6b656;" value="GEOM INVALID (VVC fail)&#xa;→ VVC-guided TFG (energy/gradient)&#xa;→ Local repair / re-denoise VertGeom&#xa;→ Budgeted healing (stop if cost&gt;B)" vertex="1">
+          <mxGeometry height="190" width="280" x="420" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffe6cc;strokeColor=#d79b00;" value="OOD RISK (Dist. fail)&#xa;→ Projection / clipping to support&#xa;→ Topo reweight / resample (discrete)&#xa;→ Keep geometry if stable" vertex="1">
+          <mxGeometry height="190" width="280" x="140" y="2550" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=10;fillColor=#f8cecc;strokeColor=#b85450;" value="HARD FAIL (both fail)&#xa;→ Backtrack stage (Topo/VertGeom)&#xa;→ Joint resample + stronger constraints&#xa;→ Escalate to heavy repair / fallback" vertex="1">
+          <mxGeometry height="190" width="280" x="420" y="2550" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-128" parent="1" style="text;html=1;align=left;verticalAlign=top;fontSize=12;" value="Legend: Dist. Constraint = distribution-support / sampling-constraint check; VVC = Visual Validity Critic (pass/fail).&#xa;You can replace actions with your exact pipeline (Topo resample vs VertGeom local optimization vs Post healing)." vertex="1">
+          <mxGeometry height="60" width="720" x="-20" y="2760" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Topology&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Re-sampling&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="126" x="-789" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-154" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-155" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-157" connectable="0" parent="4Mywm9WoGG_D_-kyn5Z8-155" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="DC fail" vertex="1">
+          <mxGeometry relative="1" x="0.6621" as="geometry">
+            <mxPoint x="-2" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;统计分布检测&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="126" x="-1050" y="1922.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-147" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-148" connectable="0" parent="4Mywm9WoGG_D_-kyn5Z8-147" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="VVC pass" vertex="1">
+          <mxGeometry relative="1" x="0.6003" y="-2" as="geometry">
+            <mxPoint x="-3" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-149" edge="1" parent="1" source="4Mywm9WoGG_D_-kyn5Z8-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4Mywm9WoGG_D_-kyn5Z8-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-150" connectable="0" parent="4Mywm9WoGG_D_-kyn5Z8-149" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="VVC fail" vertex="1">
+          <mxGeometry relative="1" x="0.551" y="4" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;VVC/统计分布&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;Router&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="63" width="102.39" x="-1340" y="1845.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Pass&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="126" x="-1050" y="1757.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;VVC energy w/&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;TFG&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="126" x="-789" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-156" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="DC pass" vertex="1">
+          <mxGeometry x="-827" y="1874.42" as="geometry">
+            <mxPoint x="-3" y="-5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
