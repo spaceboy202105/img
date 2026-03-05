@@ -25,7 +25,7 @@
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" value="基于VLM的多视图框架质量诊断" vertex="1">
           <mxGeometry height="60" width="120" x="180" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;span style=&quot;text-align: start; font-family: 宋体; font-size: 10.5pt;&quot;&gt;几何约束归因&lt;/span&gt;" vertex="1">
+        <mxCell id="4Mywm9WoGG_D_-kyn5Z8-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;span style=&quot;text-align: start; font-family: 宋体; font-size: 10.5pt;&quot;&gt;统计分布约束归因&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="400" y="320" as="geometry" />
         </mxCell>
         <mxCell id="4Mywm9WoGG_D_-kyn5Z8-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" value="&lt;span style=&quot;text-align: start; font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于免训练引导的&lt;/font&gt; &lt;font face=&quot;Calibri&quot;&gt;B-rep &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;框架修复&lt;/font&gt;&lt;/span&gt;" vertex="1">
