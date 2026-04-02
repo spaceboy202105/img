@@ -886,6 +886,9 @@
             <mxPoint x="930" y="3260.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4Ls2dFX2kie0a7_ATeiO-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PythonOCCT&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="126.74" x="860" y="3040" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
